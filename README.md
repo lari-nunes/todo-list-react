@@ -1,5 +1,5 @@
-Criando um Todo List em React.
---------------------------------------
+# Criando um Todo List em React.
 
- http://localhost:3000
+Deploy: 
+https://todo-list-react-ruddy-one.vercel.app
  
